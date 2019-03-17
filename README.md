@@ -1,4 +1,4 @@
-# todo-springboot-mysql-hibernate-rest
+# Todo Springboot Mysql Hibernate Rest api
 # To Do List web application using Spring Boot
 
 A simple Todo list application using Spring Boot with the following options:
